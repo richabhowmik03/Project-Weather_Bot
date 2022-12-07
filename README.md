@@ -8,7 +8,7 @@
 
 <h3 align=center>A fully customizable bot built with <a href=https://github.com/Pycord-Development/pycord>Pycord</a></h3>
 
---------------------------------
+-------------------------------------------
 
 <div align=center>
 <img src="https://img.icons8.com/color/48/000000/discord--v2.png"/>
